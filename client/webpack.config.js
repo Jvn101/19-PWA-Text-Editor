@@ -32,8 +32,8 @@ module.exports = () => {
         name: "PWA Text Editor",
         short_name: "PWA Editor",
         description: "A text editor application",
-        background_color: "#CD7663",
-        theme_color: "8EDFC9",
+        background_color: "#f5f5f5",
+        theme_color: "#31a9e1",
         start_url: "./",
         publicPath: "./",
         icons: [
