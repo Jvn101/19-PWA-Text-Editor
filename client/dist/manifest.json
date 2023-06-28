@@ -31,7 +31,6 @@
       "type": "image/png"
     }
   ],
-
   "name": "PWA Text Editor",
   "short_name": "PWA Editor",
   "orientation": "portrait",
